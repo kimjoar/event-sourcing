@@ -1,0 +1,8 @@
+RPUSH store "{\"event\":\"planla-aktivitet\",\"data\":{\"id\":1, \"frist\":\"12.01.2014\",\"oppgave\": \"Les bok, yo\"}}"
+RPUSH store "{\"event\":\"planla-aktivitet\",\"data\":{\"id\":1, \"frist\":\"24.03.2014\",\"oppgave\": \"Les bok, yo\"}}"
+RPUSH store "{\"event\":\"fullf\xc3\xb8r\",\"data\":{\"id\":1}}"
+RPUSH store "{\"event\":\"planla-aktivitet\",\"data\":{\"id\":2, \"frist\":\"12.03.2014\",\"oppgave\": \"se VIDEO\"}}"
+RPUSH store "{\"event\":\"planla-aktivitet\",\"data\":{\"id\":3, \"frist\":\"01.01.2015\",\"oppgave\": \"#haha\"}}"
+RPUSH store "{\"event\":\"fullf\xc3\xb8r\",\"data\":{\"id\":3}}"
+RPUSH store "{\"event\":\"planla-aktivitet\",\"data\":{\"id\":3, \"frist\":\"01.01.2015\",\"oppgave\": \"#haha - test\"}}"
+RPUSH store "{\"event\":\"gi-opp-aktivitet\",\"data\":{\"id\":2}}"
